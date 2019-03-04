@@ -1,0 +1,22 @@
+This program calculates mileage reimbursements using arrays and methods.
+
+Mileage    Reimbursement
+-------    -------------
+   10.0              1.8
+  250.6             45.1
+   99.4             17.9
+   -2.8            *****
+  999.4            126.9
+  799.4            124.9
+1,899.8            200.0
+    0.0            *****
+1,300.2            140.0
+1,101.7            139.2
+3,333.3            239.0
+
+Total reimbursement values: 1,034.84
+Number of miles processed: 11
+Number of mileage greater than 0: 9
+Total number of mileage greater than 0: 9,793.80
+Average of mileage: 890.35
+Average of reimbursement: 94.08
